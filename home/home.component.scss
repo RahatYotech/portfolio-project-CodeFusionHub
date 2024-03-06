@@ -1,0 +1,22 @@
+.home-container 
+{
+    text-align: center;
+    padding: 50px;
+    background-color: #c1ecff;
+    font-family: "Madimi One";
+    font-weight: 400;
+    font-style: normal;
+}
+
+.thumb-container 
+{
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.thumb-img
+{
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+}
